@@ -6,7 +6,7 @@
     "version": "1.0",
 
     "browser_action": {
-        "default_popup": "index.js",
+        "default_popup": "popup.js",
         "default_title": "Click here"
     },
 
